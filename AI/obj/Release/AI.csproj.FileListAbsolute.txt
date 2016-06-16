@@ -1,0 +1,1 @@
+G:\programming\Visual Studio\AI\AI\bin\Release\AI.exe.config

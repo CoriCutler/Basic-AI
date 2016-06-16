@@ -1,0 +1,9 @@
+G:\programming\Visual Studio\AI\AI\bin\Debug\AI.exe.config
+G:\programming\Visual Studio\AI\AI\obj\Debug\AI.csprojResolveAssemblyReference.cache
+G:\programming\Visual Studio\AI\AI\bin\Debug\AI.exe
+G:\programming\Visual Studio\AI\AI\bin\Debug\AI.pdb
+G:\programming\Visual Studio\AI\AI\obj\Debug\AI.exe
+G:\programming\Visual Studio\AI\AI\obj\Debug\AI.pdb
+F:\programming\Visual Studio\AI\AI\bin\Debug\AI.exe.config
+F:\programming\Visual Studio\AI\AI\obj\Debug\AI.exe
+F:\programming\Visual Studio\AI\AI\obj\Debug\AI.pdb

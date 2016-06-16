@@ -1,0 +1,5 @@
+G:\programming\Visual Studio\AI\AI\bin\x64\Debug\AI.exe.config
+G:\programming\Visual Studio\AI\AI\bin\x64\Debug\AI.exe
+G:\programming\Visual Studio\AI\AI\bin\x64\Debug\AI.pdb
+G:\programming\Visual Studio\AI\AI\obj\x64\Debug\AI.exe
+G:\programming\Visual Studio\AI\AI\obj\x64\Debug\AI.pdb
